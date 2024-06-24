@@ -1,0 +1,229 @@
+.home-container2 {
+  width: 21cm;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-text {
+  width: 30%;
+  font-size: 12px;
+  align-self: flex-start;
+  margin-top: 2.54CM;
+  text-align: center;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-left: 2.54CM;
+}
+.home-container01 {
+  width: 100%;
+  height: 58px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.home-text05 {
+  align-self: flex-start;
+  font-weight: 700;
+  
+  padding-left: 2.54CM;
+}
+.home-container02 {
+  width: 100%;
+  height: 21px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-text06 {
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 400;
+  padding-left: 2.54CM;
+}
+.home-container03 {
+  right: 0px;
+  width: 246px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-text07 {
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 400;
+  padding-left: 0px;
+}
+.home-container04 {
+  width: 100%;
+  height: 21px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-text08 {
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 400;
+  padding-left: 2.54CM;
+}
+.home-container05 {
+  top: 0px;
+  right: 0px;
+  width: 450px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-text09 {
+  align-self: center;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.home-container06 {
+  width: 100%;
+  height: 21px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-text10 {
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 400;
+  padding-left: 2.54CM;
+}
+.home-container07 {
+  top: 0px;
+  right: 0px;
+  width: 449px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-text11 {
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 400;
+  padding-left: 0px;
+}
+.home-container08 {
+  width: 100%;
+  height: 21px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  padding-top: 20px;
+  justify-content: flex-start;
+}
+.home-container09 {
+  flex: 0 0 auto;
+  right: 0px;
+  width: 243px;
+  bottom: -49px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  padding-right: 0px;
+  justify-content: flex-start;
+}
+.home-text12 {
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 700;
+  padding-left: 0px;
+}
+.home-text17 {
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 700;
+  padding-left: 2.54CM;
+}
+.home-container10 {
+  width: 100%;
+  height: 36px;
+  display: flex;
+  margin-top: 100px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.home-container11 {
+  flex: 0 0 auto;
+  width: 291px;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.home-text18 {
+  width: 100%;
+  font-size: 12px;
+  align-self: center;
+  text-align: center;
+  line-height: 1.5;
+  padding-right: 2.54cm;
+}
+.home-container12 {
+  width: 100%;
+  height: 74px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.home-container13 {
+  flex: 0 0 auto;
+  width: 291px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  margin-right: 0px;
+  justify-content: center;
+}
+.home-image {
+  width: 70px;
+  height: 70px;
+  align-self: center;
+  object-fit: cover;
+  align-items: center;
+  margin-right: 2.54cm;
+  align-content: center;
+}
+.home-container14 {
+  width: 100%;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.home-container15 {
+  flex: 0 0 auto;
+  width: 291px;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.home-text23 {
+  width: 100%;
+  font-size: 12px;
+  align-self: center;
+  text-align: center;
+  line-height: 1.5;
+  padding-right: 2.54cm;
+}

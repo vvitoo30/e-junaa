@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    flex-direction: column;
+}
+
+.container-a4 {
+    width: 140mm; /* A4 width */
+    height: 150mm; /* A4 height */
+    background-color: #fff;
+    border: 0px solid #000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header {
+    position: relative;
+    height: 120px;
+    
+}
+
+.header .logo {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+    width: 100px;
+    height: auto;
+}
+
+.header h1 {
+    margin-left: 0; /* Adjust to make room for the logo */
+    font-size: 50px;
+    font-weight: bold;
+    align-items: center;
+}
+
+.menu-item {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu-item .material-icons {
+    font-size: 48px;
+    color: #333;
+}
+
+.menu-item p {
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+}
